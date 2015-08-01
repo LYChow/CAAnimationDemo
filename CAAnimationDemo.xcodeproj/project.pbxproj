@@ -1,0 +1,470 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0FC7C5F51B6CC5CC00DF8079 /* icon_hongbao_bags.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC7C5F31B6CC5CC00DF8079 /* icon_hongbao_bags.png */; };
+		0FC7C5F61B6CC5CC00DF8079 /* icon_hongbao_bags@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FC7C5F41B6CC5CC00DF8079 /* icon_hongbao_bags@2x.png */; };
+		0FC7C5FA1B6CD2C000DF8079 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC7C5F91B6CD2C000DF8079 /* UIView+Extension.m */; };
+		0FC831FD1B6B28FB0054E348 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC831FC1B6B28FB0054E348 /* main.m */; };
+		0FC832001B6B28FB0054E348 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC831FF1B6B28FB0054E348 /* AppDelegate.m */; };
+		0FC832031B6B28FB0054E348 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC832021B6B28FB0054E348 /* ViewController.m */; };
+		0FC832081B6B28FB0054E348 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FC832071B6B28FB0054E348 /* Images.xcassets */; };
+		0FC832171B6B28FB0054E348 /* CAAnimationDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC832161B6B28FB0054E348 /* CAAnimationDemoTests.m */; };
+		0FD6E59D1B6B383A0029076E /* LYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FD6E59C1B6B383A0029076E /* LYViewController.m */; };
+		0FD6E5A21B6B555E0029076E /* img_loding.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD6E59F1B6B555E0029076E /* img_loding.png */; };
+		0FD6E5A31B6B555E0029076E /* img_loding@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD6E5A01B6B555E0029076E /* img_loding@2x.png */; };
+		0FD6E5A41B6B555E0029076E /* img_loding@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD6E5A11B6B555E0029076E /* img_loding@3x.png */; };
+		0FD6E5A91B6BA36D0029076E /* icon_coin_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD6E5A51B6BA36D0029076E /* icon_coin_1.png */; };
+		0FD6E5AA1B6BA36D0029076E /* icon_coin_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD6E5A61B6BA36D0029076E /* icon_coin_1@2x.png */; };
+		0FD6E5AB1B6BA36D0029076E /* icon_coin_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD6E5A71B6BA36D0029076E /* icon_coin_2.png */; };
+		0FD6E5AC1B6BA36D0029076E /* icon_coin_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD6E5A81B6BA36D0029076E /* icon_coin_2@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0FC832111B6B28FB0054E348 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0FC831EF1B6B28FB0054E348 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0FC831F61B6B28FB0054E348;
+			remoteInfo = CAAnimationDemo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0FC7C5F31B6CC5CC00DF8079 /* icon_hongbao_bags.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_hongbao_bags.png; sourceTree = "<group>"; };
+		0FC7C5F41B6CC5CC00DF8079 /* icon_hongbao_bags@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_hongbao_bags@2x.png"; sourceTree = "<group>"; };
+		0FC7C5F81B6CD2C000DF8079 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
+		0FC7C5F91B6CD2C000DF8079 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		0FC831F71B6B28FB0054E348 /* CAAnimationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CAAnimationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FC831FB1B6B28FB0054E348 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FC831FC1B6B28FB0054E348 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0FC831FE1B6B28FB0054E348 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0FC831FF1B6B28FB0054E348 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0FC832011B6B28FB0054E348 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		0FC832021B6B28FB0054E348 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0FC832071B6B28FB0054E348 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		0FC832101B6B28FB0054E348 /* CAAnimationDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CAAnimationDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FC832151B6B28FB0054E348 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FC832161B6B28FB0054E348 /* CAAnimationDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAAnimationDemoTests.m; sourceTree = "<group>"; };
+		0FD6E59B1B6B383A0029076E /* LYViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYViewController.h; sourceTree = "<group>"; };
+		0FD6E59C1B6B383A0029076E /* LYViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYViewController.m; sourceTree = "<group>"; };
+		0FD6E59F1B6B555E0029076E /* img_loding.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_loding.png; sourceTree = "<group>"; };
+		0FD6E5A01B6B555E0029076E /* img_loding@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_loding@2x.png"; sourceTree = "<group>"; };
+		0FD6E5A11B6B555E0029076E /* img_loding@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_loding@3x.png"; sourceTree = "<group>"; };
+		0FD6E5A51B6BA36D0029076E /* icon_coin_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_coin_1.png; sourceTree = "<group>"; };
+		0FD6E5A61B6BA36D0029076E /* icon_coin_1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_coin_1@2x.png"; sourceTree = "<group>"; };
+		0FD6E5A71B6BA36D0029076E /* icon_coin_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_coin_2.png; sourceTree = "<group>"; };
+		0FD6E5A81B6BA36D0029076E /* icon_coin_2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_coin_2@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0FC831F41B6B28FB0054E348 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0FC8320D1B6B28FB0054E348 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0FC7C5F71B6CD2C000DF8079 /* ToolView */ = {
+			isa = PBXGroup;
+			children = (
+				0FC7C5F81B6CD2C000DF8079 /* UIView+Extension.h */,
+				0FC7C5F91B6CD2C000DF8079 /* UIView+Extension.m */,
+			);
+			path = ToolView;
+			sourceTree = "<group>";
+		};
+		0FC831EE1B6B28FB0054E348 = {
+			isa = PBXGroup;
+			children = (
+				0FC831F91B6B28FB0054E348 /* CAAnimationDemo */,
+				0FC832131B6B28FB0054E348 /* CAAnimationDemoTests */,
+				0FC831F81B6B28FB0054E348 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0FC831F81B6B28FB0054E348 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0FC831F71B6B28FB0054E348 /* CAAnimationDemo.app */,
+				0FC832101B6B28FB0054E348 /* CAAnimationDemoTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0FC831F91B6B28FB0054E348 /* CAAnimationDemo */ = {
+			isa = PBXGroup;
+			children = (
+				0FC831FE1B6B28FB0054E348 /* AppDelegate.h */,
+				0FC831FF1B6B28FB0054E348 /* AppDelegate.m */,
+				0FC832011B6B28FB0054E348 /* ViewController.h */,
+				0FC832021B6B28FB0054E348 /* ViewController.m */,
+				0FD6E59B1B6B383A0029076E /* LYViewController.h */,
+				0FD6E59C1B6B383A0029076E /* LYViewController.m */,
+				0FC832071B6B28FB0054E348 /* Images.xcassets */,
+				0FC7C5F71B6CD2C000DF8079 /* ToolView */,
+				0FD6E59E1B6B53960029076E /* Images */,
+				0FC831FA1B6B28FB0054E348 /* Supporting Files */,
+			);
+			path = CAAnimationDemo;
+			sourceTree = "<group>";
+		};
+		0FC831FA1B6B28FB0054E348 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0FC831FB1B6B28FB0054E348 /* Info.plist */,
+				0FC831FC1B6B28FB0054E348 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0FC832131B6B28FB0054E348 /* CAAnimationDemoTests */ = {
+			isa = PBXGroup;
+			children = (
+				0FC832161B6B28FB0054E348 /* CAAnimationDemoTests.m */,
+				0FC832141B6B28FB0054E348 /* Supporting Files */,
+			);
+			path = CAAnimationDemoTests;
+			sourceTree = "<group>";
+		};
+		0FC832141B6B28FB0054E348 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0FC832151B6B28FB0054E348 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0FD6E59E1B6B53960029076E /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				0FD6E5A51B6BA36D0029076E /* icon_coin_1.png */,
+				0FD6E5A61B6BA36D0029076E /* icon_coin_1@2x.png */,
+				0FD6E5A71B6BA36D0029076E /* icon_coin_2.png */,
+				0FD6E5A81B6BA36D0029076E /* icon_coin_2@2x.png */,
+				0FD6E59F1B6B555E0029076E /* img_loding.png */,
+				0FD6E5A01B6B555E0029076E /* img_loding@2x.png */,
+				0FD6E5A11B6B555E0029076E /* img_loding@3x.png */,
+				0FC7C5F31B6CC5CC00DF8079 /* icon_hongbao_bags.png */,
+				0FC7C5F41B6CC5CC00DF8079 /* icon_hongbao_bags@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0FC831F61B6B28FB0054E348 /* CAAnimationDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0FC8321A1B6B28FC0054E348 /* Build configuration list for PBXNativeTarget "CAAnimationDemo" */;
+			buildPhases = (
+				0FC831F31B6B28FB0054E348 /* Sources */,
+				0FC831F41B6B28FB0054E348 /* Frameworks */,
+				0FC831F51B6B28FB0054E348 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CAAnimationDemo;
+			productName = CAAnimationDemo;
+			productReference = 0FC831F71B6B28FB0054E348 /* CAAnimationDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0FC8320F1B6B28FB0054E348 /* CAAnimationDemoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0FC8321D1B6B28FC0054E348 /* Build configuration list for PBXNativeTarget "CAAnimationDemoTests" */;
+			buildPhases = (
+				0FC8320C1B6B28FB0054E348 /* Sources */,
+				0FC8320D1B6B28FB0054E348 /* Frameworks */,
+				0FC8320E1B6B28FB0054E348 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0FC832121B6B28FB0054E348 /* PBXTargetDependency */,
+			);
+			name = CAAnimationDemoTests;
+			productName = CAAnimationDemoTests;
+			productReference = 0FC832101B6B28FB0054E348 /* CAAnimationDemoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0FC831EF1B6B28FB0054E348 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "luyao's IMac";
+				TargetAttributes = {
+					0FC831F61B6B28FB0054E348 = {
+						CreatedOnToolsVersion = 6.3.1;
+					};
+					0FC8320F1B6B28FB0054E348 = {
+						CreatedOnToolsVersion = 6.3.1;
+						TestTargetID = 0FC831F61B6B28FB0054E348;
+					};
+				};
+			};
+			buildConfigurationList = 0FC831F21B6B28FB0054E348 /* Build configuration list for PBXProject "CAAnimationDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0FC831EE1B6B28FB0054E348;
+			productRefGroup = 0FC831F81B6B28FB0054E348 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0FC831F61B6B28FB0054E348 /* CAAnimationDemo */,
+				0FC8320F1B6B28FB0054E348 /* CAAnimationDemoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0FC831F51B6B28FB0054E348 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0FD6E5A91B6BA36D0029076E /* icon_coin_1.png in Resources */,
+				0FC7C5F51B6CC5CC00DF8079 /* icon_hongbao_bags.png in Resources */,
+				0FD6E5AC1B6BA36D0029076E /* icon_coin_2@2x.png in Resources */,
+				0FC7C5F61B6CC5CC00DF8079 /* icon_hongbao_bags@2x.png in Resources */,
+				0FD6E5A31B6B555E0029076E /* img_loding@2x.png in Resources */,
+				0FD6E5A21B6B555E0029076E /* img_loding.png in Resources */,
+				0FD6E5AB1B6BA36D0029076E /* icon_coin_2.png in Resources */,
+				0FD6E5A41B6B555E0029076E /* img_loding@3x.png in Resources */,
+				0FD6E5AA1B6BA36D0029076E /* icon_coin_1@2x.png in Resources */,
+				0FC832081B6B28FB0054E348 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0FC8320E1B6B28FB0054E348 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0FC831F31B6B28FB0054E348 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0FC7C5FA1B6CD2C000DF8079 /* UIView+Extension.m in Sources */,
+				0FC832031B6B28FB0054E348 /* ViewController.m in Sources */,
+				0FD6E59D1B6B383A0029076E /* LYViewController.m in Sources */,
+				0FC832001B6B28FB0054E348 /* AppDelegate.m in Sources */,
+				0FC831FD1B6B28FB0054E348 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0FC8320C1B6B28FB0054E348 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0FC832171B6B28FB0054E348 /* CAAnimationDemoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0FC832121B6B28FB0054E348 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0FC831F61B6B28FB0054E348 /* CAAnimationDemo */;
+			targetProxy = 0FC832111B6B28FB0054E348 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0FC832181B6B28FC0054E348 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		0FC832191B6B28FC0054E348 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0FC8321B1B6B28FC0054E348 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CAAnimationDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		0FC8321C1B6B28FC0054E348 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CAAnimationDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		0FC8321E1B6B28FC0054E348 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = CAAnimationDemoTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CAAnimationDemo.app/CAAnimationDemo";
+			};
+			name = Debug;
+		};
+		0FC8321F1B6B28FC0054E348 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = CAAnimationDemoTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CAAnimationDemo.app/CAAnimationDemo";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0FC831F21B6B28FB0054E348 /* Build configuration list for PBXProject "CAAnimationDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0FC832181B6B28FC0054E348 /* Debug */,
+				0FC832191B6B28FC0054E348 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0FC8321A1B6B28FC0054E348 /* Build configuration list for PBXNativeTarget "CAAnimationDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0FC8321B1B6B28FC0054E348 /* Debug */,
+				0FC8321C1B6B28FC0054E348 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0FC8321D1B6B28FC0054E348 /* Build configuration list for PBXNativeTarget "CAAnimationDemoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0FC8321E1B6B28FC0054E348 /* Debug */,
+				0FC8321F1B6B28FC0054E348 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0FC831EF1B6B28FB0054E348 /* Project object */;
+}
