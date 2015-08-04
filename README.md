@@ -1,0 +1,4 @@
+# CAAnimationDemo
+在layer层对动画效果的实现
+动画效果的实现,为了防止卡顿在layer层实现了动画
+代码实现了CAKeyframeAnimation、CAAnimationGroup、UIViewAnimation、CABasicAnimation这四种动画
